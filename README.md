@@ -1,12 +1,11 @@
 # Meiling Xie (Tina)
-
 Senior Java Engineer (12+ Years Exp)|Ex-Citi & SAP|Backend Specialist|Building High-Performance Large Scale Systems
 
 📧 [Email](meilingxie520@gmail.com) &emsp;&emsp;🔗 [LinkedIn](https://www.linkedin.com/in/xiemeiling/)
 
 ---
 
-## 👋 About Me
+## Professional Summary
 
 Senior Backend Java Engineer with **12 years of experience** at global leaders **Citigroup** and **SAP**. Specialized in designing and delivering **high-performance, low-latency distributed systems** for **FinTech** and **SaaS** domains, processing **20M+ records/hour** while ensuring strict regulatory compliance.
 Proven expertise in **Java**, **Spring Batch**, **Spring Boot**, **microservices** architecture, cloud-native deployments and leading projects in
@@ -14,15 +13,15 @@ global cross-functional teams.
 
 ---
 
-## 🎓 Education
+## Education
 
-**Zhejiang University** ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
+**Zhejiang University** ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
 
 **Liaoning Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Bachelor’s Degree in System Management* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2007 – 2011
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 - **Core Languages & Frameworks:** Java (8 / 17), Spring Batch, Spring Boot, Hibernate, Python
 
@@ -36,7 +35,7 @@ global cross-functional teams.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Citigroup Services and Technology (China) Limited — Shanghai
 **Senior Backend Engineer (AVP Equivalent)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Jun 2019 – Oct 2025*
