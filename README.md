@@ -1,7 +1,7 @@
 # Meiling Xie (Tina)
-Senior Java Engineer (12+ Years Exp)|Ex-Citi & SAP|Backend Specialist|Building High-Performance Large Scale Systems
+Senior Java Engineer (12+ Years Exp) | Ex-Citi & SAP|Backend Specialist | Building High-Performance Large Scale Systems
 
-📧 [Email](meilingxie520@gmail.com) &emsp;&emsp;🔗 [LinkedIn](https://www.linkedin.com/in/xiemeiling/)
+📧 **Email** meilingxie520@gmail.com &emsp;&emsp;🔗 [LinkedIn](https://www.linkedin.com/in/xiemeiling/)
 
 ---
 
@@ -15,7 +15,7 @@ global cross-functional teams.
 
 ## Education
 
-**Zhejiang University** ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
+**Zhejiang University** ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
 
 **Liaoning Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Bachelor’s Degree in System Management* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2007 – 2011
 
