@@ -1,5 +1,5 @@
 # Meiling Xie (Tina)
-Senior Java Engineer (12+ Years Exp) | Ex-Citi & SAP|Backend Specialist | Building High-Performance Large Scale Systems
+Senior Java Engineer (12+ Years Exp) | Ex-Citi & SAP | Backend Specialist | Building High-Performance Large Scale Systems
 
 📧 **Email** meilingxie520@gmail.com &emsp;&emsp;🔗 [LinkedIn](https://www.linkedin.com/in/xiemeiling/)
 
@@ -10,14 +10,6 @@ Senior Java Engineer (12+ Years Exp) | Ex-Citi & SAP|Backend Specialist | Buildi
 Senior Backend Java Engineer with **12 years of experience** at global leaders **Citigroup** and **SAP**. Specialized in designing and delivering **high-performance, low-latency distributed systems** for **FinTech** and **SaaS** domains, processing **20M+ records/hour** while ensuring strict regulatory compliance.
 Proven expertise in **Java**, **Spring Batch**, **Spring Boot**, **microservices** architecture, cloud-native deployments and leading projects in
 global cross-functional teams.
-
----
-
-## Education
-
-**Zhejiang University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
-
-**Liaoning Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Bachelor’s Degree in System Management* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2007 – 2011
 
 ---
 
@@ -37,8 +29,8 @@ global cross-functional teams.
 
 ## Professional Experience
 
-### Citigroup Services and Technology (China) Limited — Shanghai
-**Senior Backend Engineer (AVP Equivalent)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Jun 2019 – Oct 2025*
+### Citigroup Services and Technology (China) Limited, Shanghai
+**Senior Backend Engineer (AVP Equivalent)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Jun 2019 – Oct 2025*
 
 **Project: Citi Margin – MRNCCD**  
 Led development and architecture for Citi Margin (MRNCCD) platform – a mission-critical regulatory
@@ -76,5 +68,13 @@ ensuring zero data loss.
 60% and increasing pass rates from 35% to 85%.
 - Collaborated with international teams to continuously optimize system reliability, monitoring and
 deployment processes.
+
+---
+
+## Education
+
+**Zhejiang University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
+
+**Liaoning Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Bachelor’s Degree in System Management* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2007 – 2011
 
 ---
