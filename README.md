@@ -73,7 +73,7 @@ deployment processes.
 
 ## Education
 
-**Zhejiang University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
+**Zhejiang University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
 
 **Liaoning Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Bachelor’s Degree in System Management* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2007 – 2011
 
