@@ -1,89 +1,81 @@
 # Meiling Xie (Tina)
 
-Senior Backend Java Engineer
+Senior Java Engineer (12+ Years Exp) | Ex-Citi & SAP | Backend Specialist | Building High-Performance Large Scale Systems
 
-📧 meilingxie520@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/xiemeiling/)
+📧 [Email](meilingxie520@gmail.com) &emsp;&emsp;&emsp;&emsp;&emsp; 🔗 [LinkedIn](https://www.linkedin.com/in/xiemeiling/)
 
 ---
 
 ## 👋 About Me
 
-Senior Backend Java Engineer with **12 years of experience** at global leaders **Citigroup** and **SAP**. Specialized in designing and delivering **high-performance, low-latency distributed systems** for **FinTech** and **SaaS** domains, processing **20M+ records/hour** under strict regulatory and stability requirements.
-
-Strong background in **Java**, **Spring Batch**, **Spring Boot microservices**, and **cloud-native deployments**, with proven experience leading projects in **global cross-functional teams** across China, India, and the U.S.
+Senior Backend Java Engineer with **12 years of experience** at global leaders **Citigroup** and **SAP**. Specialized in designing and delivering **high-performance, low-latency distributed systems** for **FinTech** and **SaaS** domains, processing **20M+ records/hour** while ensuring strict regulatory compliance.
+Proven expertise in **Java**, **Spring Batch**, **Spring Boot**, **microservices** architecture, cloud-native deployments and leading projects in
+global cross-functional teams.
 
 ---
 
 ## 🎓 Education
 
-**Zhejiang University**  
-*Master’s Degree in Software Engineering*  
-2011 – 2013
+**Zhejiang University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Master’s Degree in Software Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 – 2013
 
-**Liaoning Normal University**  
-*Bachelor’s Degree in System Management*  
-2007 – 2011
+**Liaoning Normal University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Bachelor’s Degree in System Management* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2007 – 2011
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages & Frameworks**  
-- Java (8 / 17), Spring Batch, Spring Boot, Hibernate
-- Python
+- **Core Languages & Frameworks:** Java (8 / 17), Spring Batch, Spring Boot, Hibernate, Python
 
-**Distributed Systems & Middleware**  
-- Apache Ignite, Microservices Architecture, Apache Kafka
+- **Distributed Systems:** Apache Ignite, Microservices Architecture, Apache Kafka
 
-**Databases**  
-- Oracle, Cassandra (NoSQL), SQL
+- **Databases:** Oracle, Cassandra (NoSQL), SQL
 
-**Cloud & DevOps**  
-- OpenShift, Docker, Kubernetes
-- Maven, Git, Jenkins, TeamCity, UDeploy, CI/CD Pipelines
+- **Cloud & DevOps:** OpenShift, Maven, Git, CI/CD Pipelines, TeamCity, UDeploy, Docker, Jenkins.
 
-**Quality & Process**  
-- Agile / Scrum, TDD
-- JUnit, Mockito, SonarQube
-- Autosys
+- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys
 
 ---
 
 ## 💼 Professional Experience
 
 ### Citigroup Services and Technology (China) Limited — Shanghai
-**Senior Backend Engineer (AVP Equivalent)**  
-*Jun 2019 – Oct 2025*
+**Senior Backend Engineer (AVP Equivalent)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Jun 2019 – Oct 2025*
 
 **Project: Citi Margin – MRNCCD**  
-Mission-critical regulatory platform for **Initial Margin**, **Variation Margin**, and **GMR risk** calculations for non-centrally cleared derivatives.
+Led development and architecture for Citi Margin (MRNCCD) platform – a mission-critical regulatory
+system calculating **Initial Margin**, **Variation Margin**, and **GMR risks** for non-centrally cleared derivatives,
+processing **20M+** records/hour during peak periods.
 
-**Key Achievements & Responsibilities**
-- Led architecture and core development of margin calculation engine using **Java, Spring Batch, Hibernate, Cassandra, and Oracle**, processing **20M+ records/hour** during peak periods.
-- Optimized data partitioning, hot/cold data segregation, Cassandra caching, and in-memory computation to achieve sustained high throughput with low latency.
-- Built high-throughput distributed GMR risk calculation system handling **20,000+ records/second** across **100+ daily data feeds**.
-- Architected and drove migration from **monolithic architecture to Spring Boot microservices** with **Apache Ignite**, enabling zero-downtime deployments and horizontal scalability.
-- Led large-scale initiatives including **Java 17 upgrade**, third-party vulnerability remediation, and critical data source migrations across global teams.
-- Acted as **L3 production on-call lead**, rapidly resolving critical incidents and significantly reducing MTTR.
-- Enforced engineering excellence with **85%+ unit test coverage**, SonarQube quality gates, and rigorous code reviews.
-- Mentored engineers, conducted technical interviews, and worked closely with business analysts and trading desks to translate complex regulatory requirements into robust technical solutions.
+**Key Achievements & Responsibilities** 
+- Designed and implemented core margin calculation engine using **Java, Spring Batch, Hibernate, Cassandra, and Oracle**, 
+enabling ultra-low latency processing of massive financial datasets while meeting global regulatory deadlines.
+- Optimized **data partitioning, hot/cold segregation, Cassandra** caching, and in-memory cache,
+achieving sustained throughput of 20M+ records/hour and reducing calculation delays with low latency.
+- Developed high-throughput distributed **GMR risk** calculation system handling **20,000+ records**/second across 100+ daily raw data feeds.
+- Architected and led migration from monolithic to **microservices** architecture using **Spring Boot** and
+**Apache Ignite**, delivering zero-downtime deployment and improved scalability.
+- Led large-scale data source migrations, third-party library vulnerability remediation and **Java 17**
+upgrade **across global teams** in Shanghai, Pune, and U.S.
+- Provided L3 production support as primary on-call lead, resolving critical incidents rapidly and reducing
+mean-time-to-recovery through proactive monitoring and troubleshooting.
+- Enhanced code quality through 85%+ unit test coverage (JUnit/Mockito), SonarQube enforcement, and regular code reviews.
+- Mentored team members, conducted technical interviews, collaborated with business analysts and
+trading desks to translate complex regulatory requirements into robust technical solutions.
 
 ---
 
 ### SAP (China) Co., Ltd. — SuccessFactors, Shanghai
-**Backend Engineer**  
 *Jul 2013 – Apr 2019*
 
-**Key Contributions**
-- Designed and developed **CD-Pipeline microservices** using **Java, Spring Boot, Kafka, and REST APIs**, achieving **85%+ test coverage** and seamless integration with global systems.
-- Deployed services on **Kubernetes**, focusing on high availability and operational stability.
-- Led cross-data-center migration of **50GB Elasticsearch data** with minimal downtime and zero data loss.
-- Built automated frameworks for **API and performance testing**, reducing test execution time by **60%** and increasing pass rates from **35% to 85%**.
-- Collaborated with international teams to continuously improve system reliability, monitoring, and deployment workflows.
+**Key Contributions in Metadata Service and CI/CD Pipeline Development:**
+- Designed and developed CD-Pipeline microservice using **Java, Spring Boot, Kafka**, and **REST APIs**,
+achieving 85%+ test coverage and seamless integration with global upstream/downstream systems.
+Services deployed on **Kubernetes** with a focus on high availability.
+- Led and coordinated cross-data-center migration of 50GB **Elasticsearch** data with minimal downtime,
+ensuring zero data loss.
+- Engineered automation frameworks for API and performance testing, reducing test execution time by
+60% and increasing pass rates from 35% to 85%.
+- Collaborated with international teams to continuously optimize system reliability, monitoring and
+deployment processes.
 
 ---
-
-## 🌍 Keywords
-
-`Java` · `Spring Boot` · `Spring Batch` · `Microservices` · `FinTech` · `Distributed Systems` · `Kafka` · `Cassandra` · `Oracle` · `Cloud Native` · `CI/CD` · `High Performance` · `Regulatory Systems`
