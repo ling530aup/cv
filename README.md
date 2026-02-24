@@ -15,15 +15,15 @@ global cross-functional teams.
 
 ## Technical Skills
 
-- **Core Languages & Frameworks:** Java (8 / 17), Spring Batch, Spring Boot, Hibernate, Python
+- **Core Languages & Frameworks:** Java (8 / 17), Spring Batch, Spring Boot, Hibernate, Python.
 
-- **Distributed Systems:** Apache Ignite, Microservices Architecture, Apache Kafka
+- **Distributed Systems:** Apache Ignite, Microservices Architecture, Apache Kafka.
 
-- **Databases:** Oracle, Cassandra (NoSQL), SQL
+- **Databases:** Oracle, Cassandra (NoSQL), SQL, Elasticsearch.
 
 - **Cloud & DevOps:** OpenShift, Maven, Git, CI/CD Pipelines, TeamCity, UDeploy, Docker, Jenkins.
 
-- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys
+- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys, Prometheus, Kibana.
 
 ---
 
