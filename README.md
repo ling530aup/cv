@@ -17,13 +17,13 @@ global cross-functional teams.
 
 - **Core Languages & Frameworks:** Java (8 / 17), Spring Batch, Spring Boot, Hibernate, Python.
 
-- **Distributed Systems:** Apache Ignite, Microservices Architecture, Apache Kafka.
+- **Distributed Systems:** Apache Ignite, Microservices Architecture, Apache Kafka, Event-Driven design.
 
 - **Databases:** Oracle, Cassandra (NoSQL), SQL, Elasticsearch.
 
 - **Cloud & DevOps:** OpenShift, Maven, Git, CI/CD Pipelines, TeamCity, UDeploy, Docker, Jenkins.
 
-- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys, Prometheus, Kibana.
+- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys, Prometheus, Kibana, Grafana.
 
 ---
 
