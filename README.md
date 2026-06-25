@@ -23,7 +23,7 @@ global cross-functional teams.
 
 - **Cloud & DevOps:** OpenShift, Maven, Git, CI/CD Pipelines, TeamCity, UDeploy, Docker, Jenkins.
 
-- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys, Prometheus, Kibana, Grafana.
+- **Other:** Agile/Scrum, TDD, JUnit/Mockito, SonarQube, Autosys, Prometheus, Kibana, Grafana, Cursor.
 
 ---
 
