@@ -27,6 +27,16 @@ global cross-functional teams.
 
 ---
 
+## AI Innovation
+
+Developed a local PDF **RAG** assistant using **Python**, SentenceTransformers, **ChromaDB**, and **Ollama**. 
+Implemented PDF parsing, text chunking, embedding-based retrieval, CrossEncoder **reranking**, and **local language-model generation**. 
+Exposed the complete retrieval and generation pipeline through an **MCP server**, 
+with persistent vector storage and incremental indexing to efficiently handle newly added or modified documents, 
+while keeping the architecture modular and easy to extend.
+
+---
+
 ## Professional Experience
 
 ### Citigroup Services and Technology (China) Limited, Shanghai
